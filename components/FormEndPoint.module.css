@@ -1,0 +1,23 @@
+.alertEndPoint{
+    display: flex;
+    justify-content: flex-end;
+}
+.text_h6{
+    padding-left: 3em;
+    padding-right: 1em;
+    padding-top: 0.2em;
+}
+
+.headerCard{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 2em;
+}
+.bodyCard{
+    display: flex;
+    justify-content: center;
+}
+.listResult{
+    display: flex !important;
+    justify-content: space-around;
+}

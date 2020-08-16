@@ -1,0 +1,30 @@
+{
+    "data":[
+        {
+            "name":"number_license_plate",
+            "value":"",
+            "id":0
+        },
+        {
+            "name":"trademark",
+            "value":"",
+            "id":1
+        },
+        {
+            "name":"type",
+            "value":"",
+            "id":2
+        },
+        {
+            "name":"owner_name",
+            "value":"",
+            "id":3
+        },
+        {
+            "name":"owner_number_ident",
+            "value":"",
+            "id":4
+        }
+    ],
+    "error":{}
+}
